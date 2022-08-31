@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "http-server": "^14.1.0"
-  }
+  },
+  "name": "html-fund-me-fcc",
+  "description": "*[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s)*",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickAlphaC/html-fund-me-fcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickAlphaC/html-fund-me-fcc/issues"
+  },
+  "homepage": "https://github.com/PatrickAlphaC/html-fund-me-fcc#readme"
 }
